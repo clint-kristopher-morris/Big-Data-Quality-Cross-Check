@@ -18,5 +18,5 @@ An example of this page can be see below:
 
 ![alt text](https://i.ibb.co/h9X9Q1J/blocked-list-GUIsm.png)
 
-This process can be found in **VDS_info_collect.py**
+This process can be found in: ```VDS_info_collect.py```
 URL, password, username and xpath information has been removed for security.
