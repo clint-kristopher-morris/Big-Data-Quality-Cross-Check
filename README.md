@@ -8,5 +8,11 @@ To expedite this process, I found that accessing download pages by altering the 
 
 The URL was formatted in a manner similar to this:
 ```
-'http://constant_text{**VDS location mapped to a numerical value**}constant_text{**start**}constant_text{**end**}constant_text'
+f'http://constant_text{VDS_location_mapped_to_a_numerical_value}constant_text{start}constant_text{end}constant_text'
 ```
+I found that this numerical mapping could be found on another page.
+So, my first step was to access this page and collect data on all VDS locations. 
+This HTML feature multiple scrollable selection sections that needed to be interacted with a web driver.
+An example of this page can be see below:
+
+![alt text](https://i.ibb.co/y6Yyx0f/blocked-list-GUI.png)
