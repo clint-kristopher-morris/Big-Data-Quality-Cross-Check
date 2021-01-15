@@ -15,4 +15,4 @@ So, my first step was to access this page and collect data on all VDS locations.
 This HTML feature multiple scrollable selection sections that needed to be interacted with a web driver.
 An example of this page can be see below:
 
-![alt text](https://i.ibb.co/y6Yyx0f/blocked-list-GUI.png)
+![alt text](https://i.ibb.co/h9X9Q1J/blocked-list-GUIsm.png)
